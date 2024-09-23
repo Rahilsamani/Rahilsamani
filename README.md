@@ -10,8 +10,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/rahilahmed95/rahilahmed95/blob/main/Coding%20GIF.gif?raw=true">
 
-- 🌱 I’m currently learning **Android Development**
-- 💬 Ask me about **Android || Web Development**
+- 🌱 I’m currently learning **Machine Learning**
+- 💬 Ask me about **Android || Web Development || Machine Learning**
 - 📫 How to reach me **rahilahmed1720@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
