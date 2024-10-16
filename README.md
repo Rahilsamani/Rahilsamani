@@ -61,6 +61,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="35" alt="mongodb logo" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" height="35" alt="sql logo" />
 </p>
 
 ### Cloud Computing
