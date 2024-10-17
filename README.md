@@ -95,10 +95,10 @@
 
 ### 💫 About Me:
 
-- 👯 I’m looking to collaborate on **Web Development or Android Development**
-- 🤝 I’m looking for help with **Web Development, Android Development, and DSA**
-- 🌱 I’m currently learning **Android Development**
-- 💬 Ask me about **Web Development || Android Development**
+- 👯 I’m looking to collaborate on **Web Development || Android Development || Machine Learning || DSA**
+- 🤝 I’m looking for help with **Web Development || Android Development || Machine Learning || DSA**
+- 🌱 I’m currently learning **Machine Learning**
+- 💬 Ask me about **Web Development || Android Development || Machine Learning || DSA**
 
 ### 📊 GitHub Stats:
 
