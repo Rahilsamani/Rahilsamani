@@ -1,17 +1,17 @@
 ![logo](https://github.com/rahilahmed95/rahilahmed95/blob/main/github%20banner.gif)
 <h1 align="center">Hi 👋, I'm Rahil Ahmed</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=noto-serif&weight=700&pause=800&color=463CD2&width=1100&center=true&lines=Welcome+To+My+Github+Profile;Algorithm+8.0+Hackathon+Winner;Full+Stack+Web+Developer;Android+Developer;let's+collaborate+and+develop+our+abilities." alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=noto-serif&weight=700&pause=400&color=463CD2&width=1100&center=true&lines=Welcome+To+My+Github+Profile;Algorithm+8.0+Hackathon+Winner;MERN+Stack+Developer;ASP.NET+Core+Developer;Android+Developer;let's+collaborate+and+develop+our+abilities." alt="Typing SVG">
   </a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/rahilahmed95/rahilahmed95/blob/main/Coding%20GIF.gif?raw=true">
 
-- 🌱 I’m currently learning **Machine Learning && DSA**
-- 💬 Ask me about **Web Development || Android || DSA || Machine Learning**
+- 🌱 I’m currently learning **Artificial Intelligence & DSA**
+- 💬 Ask me about **Web Development | Android | DSA | Artificial Intelligence**
 - 📫 How to reach me **rahilahmed1720@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
